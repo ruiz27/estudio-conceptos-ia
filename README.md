@@ -1,5 +1,3 @@
-# estudio-conceptos-ia
-
 ## 🧠 Mapa Conceptual de IA Refinado
 
 ### 1. Inteligencia Artificial (IA) 🤖
