@@ -18,7 +18,9 @@
    - **Función**: Son la tecnología que impulsa el Procesamiento del Lenguaje Natural (PLN) avanzado, permitiendo a las máquinas comprender, generar y razonar utilizando el lenguaje humano.
 ### 6. Herramientas de programacion con IA
    **Definición**: Son aplicaciones y plataformas que utilizan modelos de IA (incluidos LLMs) para proporcionar funcionalidades específicas (chatbots, asistentes virtuales, análisis de datos, etc.). 
+    
 - Herramientas de Chat / Web: ChatGPT y Claude
+- Modelos (LLM): Gemini, Claude Sonnet, GPT-x
 - Herramientas de IDE: GitHub Copilot (Plugin), Cursor (IDE modificado)
 - Herramientas de Agente: Claude Code Agent AI, GitHub Copilot Workspace
 
