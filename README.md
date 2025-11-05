@@ -21,12 +21,13 @@
     
 - Herramientas de Chat / Web: ChatGPT y Claude
 - Modelos (LLM): Gemini, Claude Sonnet, GPT-x
-- Herramientas de IDE: GitHub Copilot (Plugin), Cursor (IDE modificado), Windsurf
+- Herramientas de IDE: GitHub Copilot (Plugin), Cursor, Windsurf - (tienen modo agente) -
 - Herramientas de Agente: Claude Code Agent AI, GitHub Copilot Workspace
 - MCP: Protocolo estándar para que los LLMs usen herramientas externas.
 
 ### Ejemplo de uso:
 Un desarrollador puede en un proyecto de software hacer lo siguiente:
 - Utilizar ChatGPT para preguntar y aprender sobre alguna tecnologia y caso de uso. Incluso para refactorizar codigo.
-- Usar GitHub Copilot o Cursor para autocompletar codigo, crear tests y obtener sugerencias mientras desarrolla una feature nueva.
-- Usar Claude code agent ai para solucionar un bug en paralelo.
+- Usar Cursor o Windsurf en modo 'chat' para crear o autocompletar código, crear tests mientras desarrolla una feature nueva.
+- Usar Cursor o Windsurf en modo 'agent' que desarrolle código de manera independiente.
+- Usar Claude code agent AI, para que de manera autonoma solucione un bug.
