@@ -21,7 +21,7 @@
     
 - Herramientas de Chat / Web: ChatGPT y Claude
 - Modelos (LLM): Gemini, Claude Sonnet, GPT-x
-- Herramientas de IDE: GitHub Copilot (Plugin), Cursor (IDE modificado)
+- Herramientas de IDE: GitHub Copilot (Plugin), Cursor (IDE modificado), Windsurf
 - Herramientas de Agente: Claude Code Agent AI, GitHub Copilot Workspace
 
 ### Ejemplo de uso:
