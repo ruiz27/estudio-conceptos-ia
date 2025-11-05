@@ -27,7 +27,7 @@
 
 ### Ejemplo de uso:
 Un desarrollador puede en un proyecto de software hacer lo siguiente:
-- Utilizar ChatGPT para preguntar y aprender sobre alguna tecnologia y caso de uso. Incluso para refactorizar codigo.
-- Usar Cursor o Windsurf en modo 'chat' para crear o autocompletar código, crear tests mientras desarrolla una feature nueva.
-- Usar Cursor o Windsurf en modo 'agent' que desarrolle código de manera independiente.
+- Utilizar ChatGPT para preguntar y aprender sobre alguna tecnologia y/o caso de uso.
+- Usar Cursor o Windsurf en modo 'chat' para crear o autocompletar código, crear tests, mientras desarrolla una feature nueva.
+- Usar Cursor o Windsurf en modo 'agent' que desarrolle código de manera autonoma.
 - Usar Claude code agent AI, para que de manera autonoma solucione un bug.
