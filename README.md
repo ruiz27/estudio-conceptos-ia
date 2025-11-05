@@ -23,6 +23,7 @@
 - Modelos (LLM): Gemini, Claude Sonnet, GPT-x
 - Herramientas de IDE: GitHub Copilot (Plugin), Cursor (IDE modificado), Windsurf
 - Herramientas de Agente: Claude Code Agent AI, GitHub Copilot Workspace
+- MCP: Protocolo estándar para que los LLMs usen herramientas externas.
 
 ### Ejemplo de uso:
 Un desarrollador puede en un proyecto de software hacer lo siguiente:
