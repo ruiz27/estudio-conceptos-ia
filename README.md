@@ -25,6 +25,8 @@
 - Herramientas de Agente: Claude Code Agent AI, GitHub Copilot Workspace
 - MCP: Protocolo estándar para que los LLMs usen herramientas externas.
 
+  Las herramientas e IDEs funcionan con "rules", "bank of memory" y "context" para mejores resultados.
+
 ### Ejemplo de uso:
 Un desarrollador puede en un proyecto de software hacer lo siguiente:
 - Utilizar ChatGPT para preguntar y aprender sobre alguna tecnologia y/o caso de uso.
